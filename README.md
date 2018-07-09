@@ -6,7 +6,7 @@ Conventional recurrent networks working with senquential data, such as Long-Shor
 
 DNCs can store relevant findings in a memory matrix in form of weights and find assiciations with previously learnt concepts.
 
-!(images/DNC.png)
+![DNC architecture](images/DNC.png)
 
 The DNC possesses three different methods of *differentiable attention*, which are used by the read and write heads:
 1.  **Content lookup**:  Key vector emitted by the controller is compared to the content od each location in memory according to similarity measure (**cosine similarity**)
