@@ -1,6 +1,6 @@
 ### Differential Neural Computer
 For the purpose of the Helix network topology and particularly the optimization of her connection rates, the 'Differential Neural Computer'(DNC) could be useful machine learning tool.
-Basically it is a recurrent neural network with an  ***autoassociative* memory-matrix.***
+Basically it is a recurrent neural network with an  ***autoassociative* memory-matrix.**
 
 Conventional recurrent networks working with senquential data, such as Long-Short-Term-Memory (LSTM) networks, can safe privious data in memory'-gates. However they are rather limited for the task of storing bigger and more complex data, which the neural network would take to learn from.
 
